@@ -1,0 +1,7 @@
+{
+  "name": "Smooth Drive",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
